@@ -13,6 +13,10 @@ Welcome to "The Cat Photo App" website task. This project is designed to practic
 
 ## Cat table
 
-<p></p>
+<p>In the section, I have used table, table head, table body and table other properties. i used <.table>, <.thead> , <.tbody>, <.tr>, <.th>, <.td></p>
 
 ![image](https://github.com/parwindersinghbatra/The_Cat_Photo_App/assets/64405014/73ec2e51-87e3-423f-b2be-0d1b76ff2b1c)
+
+## Summary
+![image](https://github.com/parwindersinghbatra/The_Cat_Photo_App/assets/64405014/129e26cc-411d-460e-97e4-30596f38c3d2)
+
