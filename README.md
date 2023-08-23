@@ -18,5 +18,7 @@ Welcome to "The Cat Photo App" website task. This project is designed to practic
 ![image](https://github.com/parwindersinghbatra/The_Cat_Photo_App/assets/64405014/73ec2e51-87e3-423f-b2be-0d1b76ff2b1c)
 
 ## Summary
+<p>In the Summary section, I have used a mix of heading tags and paragraph tags and bold tag, strong tag, em tag and i tag for the text content. Here's the screenshot:</p>
+
 ![image](https://github.com/parwindersinghbatra/The_Cat_Photo_App/assets/64405014/129e26cc-411d-460e-97e4-30596f38c3d2)
 
